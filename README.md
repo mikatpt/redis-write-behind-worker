@@ -21,6 +21,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
+    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -58,6 +59,18 @@ In this way, a buffer is built between the service and database, preventing the 
    ```sh
    npm install
    ```
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+This project is currently in very basic form, having been built to address exactly one unique use case.
+Any contributions you make to improve upon it will be **greatly appreciated**!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/yourFeature`)
+3. Commit your Changes (`git commit -m 'Added a feature!'`)
+4. Push to the Branch (`git push origin feature/yourFeature`)
+5. Open a Pull Request
 
 <!-- CONTACT -->
 ## Contact
