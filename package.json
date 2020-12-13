@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HRR49Team8/reviewsWebWorker.git"
+    "url": "git+https://github.com/mikatpt/redis-write-behind-worker.git"
   },
   "author": "mikatpt",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/HRR49Team8/reviewsWebWorker/issues"
+    "url": "https://github.com/mikatpt/redis-write-behind-worker/issues"
   },
-  "homepage": "https://github.com/HRR49Team8/reviewsWebWorker#readme",
+  "homepage": "https://github.com/mikatpt/redis-write-behind-worker#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
     "pg": "^8.5.1",

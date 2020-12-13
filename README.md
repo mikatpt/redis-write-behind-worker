@@ -53,7 +53,7 @@ In this way, a buffer is built between the service and database, preventing the 
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/HRR49Team8/reviewsWebWorker.git
+   git clone https://github.com/mikatpt/redis-write-behind-worker.git
    ```
 2. Install NPM packages
    ```sh
@@ -77,4 +77,4 @@ Any contributions you make to improve upon it will be **greatly appreciated**!
 
 Michael Chen - mikatpt@gmail.com
 
-Project Link: [https://github.com/HRR49Team8/reviewsWebWorker](https://github.com/HRR49Team8/reviewsWebWorker)
+Project Link: [https://github.com/mikatpt/redis-write-behind-worker](https://github.com/mikatpt/redis-write-behind-worker)
