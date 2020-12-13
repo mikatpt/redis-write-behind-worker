@@ -1,0 +1,26 @@
+{
+  "name": "webworker",
+  "version": "1.0.0",
+  "description": "Web worker for Redis-Postgres POST queue",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "seed": "node server/seed.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HRR49Team8/reviewsWebWorker.git"
+  },
+  "author": "mikatpt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HRR49Team8/reviewsWebWorker/issues"
+  },
+  "homepage": "https://github.com/HRR49Team8/reviewsWebWorker#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "pg": "^8.5.1",
+    "redis": "^3.0.2"
+  }
+}
