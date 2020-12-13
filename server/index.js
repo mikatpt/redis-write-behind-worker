@@ -1,3 +1,4 @@
+require('dotenv').config();
 const { promisify } = require('util');
 
 const { client } = require('./db.js');
