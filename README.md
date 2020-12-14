@@ -18,7 +18,7 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#Usage">Usage</a></li>
       </ul>
     </li>
     <li><a href="#contributing">Contributing</a></li>
@@ -49,7 +49,7 @@ In this way, a buffer is built between the service and database, preventing the 
 * redis
 * postgres
 
-### Installation
+### Usage
 
 1. Clone the repo
    ```sh
@@ -58,6 +58,12 @@ In this way, a buffer is built between the service and database, preventing the 
 2. Install NPM packages
    ```sh
    npm install
+   ```
+3. Set environment variables
+   ```sh
+   vim .env
+   DBSERVER=database_IP_HERE
+   REDIS=redis_IP_HERE
    ```
 
 <!-- CONTRIBUTING -->
